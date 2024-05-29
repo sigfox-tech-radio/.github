@@ -33,6 +33,6 @@ In this GitHub organization you will find open-source projects related to the **
 
 ## Full implementation examples
 
-| Repository | Chipset vendor | Chipset reference |
-|:---:|:---:|:---:|
-| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | Holtek | BC68F2150 |
+| Repository | Type| MCU vendor & Reference |  RFs chipsets vendors & reference |
+|:---:|:---:|:---:|:---:|
+| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | SoC | Holtek-BC68F2150 | Holtek-BC68F2150 |
