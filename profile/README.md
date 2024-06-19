@@ -35,4 +35,5 @@ In this GitHub organization you will find open-source projects related to the **
 
 | Repository | Type| MCU vendor & Reference |  RFs chipsets vendors & reference |
 |:---:|:---:|:---:|:---:|
-| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | SoC | Holtek-BC68F2150 | Holtek-BC68F2150 |
+| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | SoC | [Holtek-BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) | [Holtek-BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) |
+| [sigfox-ep-example-st-nucleo-xxxxxx](https://github.com/sigfox-tech-radio/sigfox-ep-example-st-nucleo-xxxxxx) | Multi RF | ST-[Nucleo-L053R8](https://www.st.com/en/evaluation-tools/nucleo-l053r8.html) | Semtech-LR11XX, [Semtech-SX126X](https://www.semtech.fr/products/wireless-rf/lora-connect/sx1261dvk1bas), [ST-S2LP](https://www.st.com/en/evaluation-tools/steval-fki868v2.html) |
