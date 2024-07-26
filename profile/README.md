@@ -12,28 +12,28 @@ In this GitHub organization you will find open-source projects related to the **
 
 ## Core device library
 
-| Repository | Description |
-|:---:|:---:|
-| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library |
+| Repository | Description | Last version |
+|:---:|:---:|:---:|
+| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library | [v3.6](https://github.com/sigfox-tech-radio/sigfox-ep-lib/releases/tag/v3.6) |
 
 ## Addons
 
-| Repository | Description |
-|:---:|:---:|
-| [sigfox-ep-addon-rfp](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp) | RF & Protocol addon to perform Sigfox certification with RSA tool |
-| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests |
+| Repository | Description | Last version |
+|:---:|:---:|:---:|
+| [sigfox-ep-addon-rfp](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp) | RF & Protocol addon to perform Sigfox certification with RSA tool | [v1.5](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp/releases/tag/v1.5) |
+| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests | [v1.1](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta/releases/tag/v1.1) |
 
 ## Radio implementation examples
 
-| Repository | Chipset vendor | Chipset reference |
-|:---:|:---:|:---:|
-| [sigfox-ep-rf-api-st-s2lp](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp) | ST Microelectronics | S2-LPQTR |
-| [sigfox-ep-rf-api-semtech-lr11xx](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx) | Semtech | LR11xx |
-| [sigfox-ep-rf-api-semtech-sx126x](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x) | Semtech | SX126x |
+| Repository | Chipset vendor | Chipset reference | Last version |
+|:---:|:---:|:---:|:---:|
+| [sigfox-ep-rf-api-st-s2lp](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp) | ST Microelectronics | S2-LPQTR | [v3.1](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp/releases/tag/v3.1) |
+| [sigfox-ep-rf-api-semtech-lr11xx](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx) | Semtech | LR11xx | [v2.1](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx/releases/tag/v2.1) |
+| [sigfox-ep-rf-api-semtech-sx126x](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x) | Semtech | SX126x | [v1.3](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x/releases/tag/v1.3) |
 
 ## Full implementation examples
 
-| Repository | Type| MCU vendor & Reference |  RFs chipsets vendors & reference |
-|:---:|:---:|:---:|:---:|
-| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | SoC | Holtek [BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) | Holtek [BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) |
-| [sigfox-ep-example-st-nucleo-xxxxxx](https://github.com/sigfox-tech-radio/sigfox-ep-example-st-nucleo-xxxxxx) | Multi RF | ST [Nucleo-L053R8](https://www.st.com/en/evaluation-tools/nucleo-l053r8.html) | Semtech [LR11XX](https://www.semtech.com/products/wireless-rf/lora-edge/lr1110dvk1tbks), Semtech [SX126X](https://www.semtech.fr/products/wireless-rf/lora-connect/sx1261dvk1bas), ST [S2LP](https://www.st.com/en/evaluation-tools/steval-fki868v2.html) |
+| Repository | Type| MCU vendor & Reference |  RFs chipsets vendors & reference | Last version |
+|:---:|:---:|:---:|:---:|:---:|
+| [sigfox-ep-example-holtek-bc68f2150](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150) | SoC | Holtek [BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) | Holtek [BC68F2150](https://www.bestmodulescorp.com/sgb-1501-rc1.html) | [v1.3](https://github.com/sigfox-tech-radio/sigfox-ep-example-holtek-bc68f2150/releases/tag/v1.3) |
+| [sigfox-ep-example-st-nucleo-xxxxxx](https://github.com/sigfox-tech-radio/sigfox-ep-example-st-nucleo-xxxxxx) | Multi RF | ST [Nucleo-L053R8](https://www.st.com/en/evaluation-tools/nucleo-l053r8.html) | Semtech [LR11XX](https://www.semtech.com/products/wireless-rf/lora-edge/lr1110dvk1tbks), Semtech [SX126X](https://www.semtech.fr/products/wireless-rf/lora-connect/sx1261dvk1bas), ST [S2LP](https://www.st.com/en/evaluation-tools/steval-fki868v2.html) | [v1.0](https://github.com/sigfox-tech-radio/sigfox-ep-example-st-nucleo-xxxxxx/releases/tag/v1.0) |
