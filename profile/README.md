@@ -14,22 +14,22 @@ In this GitHub organization you will find open-source projects related to the **
 
 | Repository | Description | Latest version |
 |:---:|:---:|:---:|
-| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library | [v3.6](https://github.com/sigfox-tech-radio/sigfox-ep-lib/releases/tag/v3.6) |
+| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library | [v4.0](https://github.com/sigfox-tech-radio/sigfox-ep-lib/releases/tag/v4.0) |
 
 ## Addons
 
 | Repository | Description | Latest version |
 |:---:|:---:|:---:|
-| [sigfox-ep-addon-rfp](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp) | RF & Protocol addon to perform Sigfox certification with RSA tool | [v1.5](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp/releases/tag/v1.5) |
-| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests | [v1.1](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta/releases/tag/v1.1) |
+| [sigfox-ep-addon-rfp](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp) | RF & Protocol addon to perform Sigfox certification with RSA tool | [v2.0](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp/releases/tag/v2.0) |
+| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests | [v2.0](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta/releases/tag/v2.0) |
 
 ## Radio implementation examples
 
 | Repository | Chipset vendor | Chipset reference | Latest version |
 |:---:|:---:|:---:|:---:|
-| [sigfox-ep-rf-api-st-s2lp](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp) | ST Microelectronics | S2-LPQTR | [v3.1](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp/releases/tag/v3.1) |
-| [sigfox-ep-rf-api-semtech-lr11xx](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx) | Semtech | LR11xx | [v2.1](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx/releases/tag/v2.1) |
-| [sigfox-ep-rf-api-semtech-sx126x](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x) | Semtech | SX126x | [v1.3](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x/releases/tag/v1.3) |
+| [sigfox-ep-rf-api-st-s2lp](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp) | ST Microelectronics | S2-LPQTR | [v4.0](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-st-s2lp/releases/tag/v4.0) |
+| [sigfox-ep-rf-api-semtech-lr11xx](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx) | Semtech | LR11xx | [v3.0](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-lr11xx/releases/tag/v3.0) |
+| [sigfox-ep-rf-api-semtech-sx126x](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x) | Semtech | SX126x | [v2.0](https://github.com/sigfox-tech-radio/sigfox-ep-rf-api-semtech-sx126x/releases/tag/v2.0) |
 
 ## Full implementation examples
 
