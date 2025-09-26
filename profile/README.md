@@ -14,7 +14,7 @@ In this GitHub organization you will find open-source projects related to the **
 
 | Repository | Description | Latest version | Documentation |
 |:---:|:---:|:---:|:---:|
-| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library | [v4.2](https://github.com/sigfox-tech-radio/sigfox-ep-lib/releases/tag/v4.2) | [Wiki](https://github.com/sigfox-tech-radio/sigfox-ep-lib/wiki) |
+| [sigfox-ep-lib](https://github.com/sigfox-tech-radio/sigfox-ep-lib) | Core Sigfox device library | [v4.3](https://github.com/sigfox-tech-radio/sigfox-ep-lib/releases/tag/v4.3) | [Wiki](https://github.com/sigfox-tech-radio/sigfox-ep-lib/wiki) |
 
 ## Addons
 
