@@ -21,7 +21,7 @@ In this GitHub organization you will find open-source projects related to the **
 | Repository | Description | Latest version |
 |:---:|:---:|:---:|
 | [sigfox-ep-addon-rfp](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp) | RF & Protocol addon to perform Sigfox certification with RSA tool | [v2.2](https://github.com/sigfox-tech-radio/sigfox-ep-addon-rfp/releases/tag/v2.2) |
-| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests | [v2.1](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta/releases/tag/v2.1) |
+| [sigfox-ep-addon-ta](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta) | Type Approval addon to perform regulatory tests | [v3.0](https://github.com/sigfox-tech-radio/sigfox-ep-addon-ta/releases/tag/v3.0) |
 | [sigfox-ep-addon-aw](https://github.com/sigfox-tech-radio/sigfox-ep-addon-aw) | Atlas WiFi addon to build WiFi geolocation frames | [v2.0](https://github.com/sigfox-tech-radio/sigfox-ep-addon-aw/releases/tag/v2.0) |
 
 ## Radio implementation examples
